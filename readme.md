@@ -4,50 +4,50 @@
 
 ### index.html :bulb:
 
-#### Descripcion :memo:
+#### Descripción :memo:
 Estamos en Montevideo, Uruguay. Somos un equipo de abogados y profesionales especialistas en derecho Laboral, Familia, Civil y Comercial. Si tiene dudas póngase en contacto.
 
 #### Keywords :key:
-Abogados Montevideo, Derecho de familia, Derecho civil, Derecho laboral, Sucesiones, Audiencias, Divorcios, Tenencia, Pensión Alimenticia, Desalojo, Accidentes de transito.
+Abogados Montevideo, Derecho de familia, Derecho civil, Derecho laboral, Sucesiones, Audiencias, Divorcios, Tenencia, Pensión Alimenticia, Desalojo, Accidentes de tránsito.
 
 # ----------------------------------------------------------
 ### equipo.html :bulb:
 
-#### Descripcion :memo:
+#### Descripción :memo:
 ABOGADA GABRIELA GOMEZ, ABOGADA - ESCRIBANA SANDRA PEREZ
 
 #### Keywords :key:
-Abogados Montevideo, Derecho de familia, Derecho civil, Derecho laboral, Sucesiones, Audiencias, Divorcios, Tenencia, Pensión Alimenticia, Desalojo, Accidentes de transito.
+Abogados Montevideo, Derecho de familia, Derecho civil, Derecho laboral, Sucesiones, Audiencias, Divorcios, Tenencia, Pensión Alimenticia, Desalojo, Accidentes de tránsito.
 
 # ----------------------------------------------------------
 
 ### servicios.html :bulb:
 
-#### Descripcion :memo:
+#### Descripción :memo:
 Nos especializamos en derecho Laboral, Familia, Civil y Comercial. Si tiene dudas póngase en contacto.
 
 #### Keywords :key:
-Abogados Montevideo, Derecho de familia, Derecho civil, Derecho laboral, Sucesiones, Audiencias, Divorcios, Tenencia, Pensión Alimenticia, Desalojo, Accidentes de transito.
+Abogados Montevideo, Derecho de familia, Derecho civil, Derecho laboral, Sucesiones, Audiencias, Divorcios, Tenencia, Pensión Alimenticia, Desalojo, Accidentes de tránsito.
 
 # ----------------------------------------------------------
 
 ### contactenos.html :bulb:
 
-#### Descripcion :memo:
-Montevideo, calle Agraciada 1515, Telefono 20204141, Celular 098765432, Email estudio@estudio.com
+#### Descripción :memo:
+Montevideo, calle Agraciada 1515, Teléfono 20204141, Celular 098765432, Email estudio@estudio.com
 
 #### Keywords :key:
-Abogados Montevideo, Derecho de familia, Derecho civil, Derecho laboral, Sucesiones, Audiencias, Divorcios, Tenencia, Pensión Alimenticia, Desalojo, Accidentes de transito.
+Abogados Montevideo, Derecho de familia, Derecho civil, Derecho laboral, Sucesiones, Audiencias, Divorcios, Tenencia, Pensión Alimenticia, Desalojo, Accidentes de tránsito.
 
 # ----------------------------------------------------------
 
 ### ayuda.html :bulb:
 
-#### Descripcion :memo:
+#### Descripción :memo:
 Estamos en Montevideo, Uruguay. Somos un equipo de abogados y profesionales especialistas en derecho Laboral, Familia, Civil y Comercial. Si tiene dudas póngase en contacto.
 
 #### Keywords :key:
-Abogados Montevideo, Derecho de familia, Derecho civil, Derecho laboral, Sucesiones, Audiencias, Divorcios, Tenencia, Pensión Alimenticia, Desalojo, Accidentes de transito
+Abogados Montevideo, Derecho de familia, Derecho civil, Derecho laboral, Sucesiones, Audiencias, Divorcios, Tenencia, Pensión Alimenticia, Desalojo, Accidentes de tránsito
 
 # ----------------------------------------------------------
 
