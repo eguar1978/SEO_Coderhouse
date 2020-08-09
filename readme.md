@@ -10,8 +10,7 @@ Estamos en Montevideo, Uruguay. Somos un equipo de abogados y profesionales espe
 #### Keywords :key:
 Abogados Montevideo, Derecho de familia, Derecho civil, Derecho laboral, Sucesiones, Audiencias, Divorcios, Tenencia, Pensión Alimenticia, Desalojo, Accidentes de transito.
 
-# ---------------------------------------------------------------------------------------------------------------------------------
-
+# ----------------------------------------------------------
 ### equipo.html :bulb:
 
 #### Descripcion :memo:
@@ -20,7 +19,7 @@ ABOGADA GABRIELA GOMEZ, ABOGADA - ESCRIBANA SANDRA PEREZ
 #### Keywords :key:
 Abogados Montevideo, Derecho de familia, Derecho civil, Derecho laboral, Sucesiones, Audiencias, Divorcios, Tenencia, Pensión Alimenticia, Desalojo, Accidentes de transito.
 
-# ---------------------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------
 
 ### servicios.html :bulb:
 
@@ -30,7 +29,7 @@ Nos especializamos en derecho Laboral, Familia, Civil y Comercial. Si tiene duda
 #### Keywords :key:
 Abogados Montevideo, Derecho de familia, Derecho civil, Derecho laboral, Sucesiones, Audiencias, Divorcios, Tenencia, Pensión Alimenticia, Desalojo, Accidentes de transito.
 
-# ---------------------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------
 
 ### contactenos.html :bulb:
 
@@ -40,7 +39,7 @@ Montevideo, calle Agraciada 1515, Telefono 20204141, Celular 098765432, Email es
 #### Keywords :key:
 Abogados Montevideo, Derecho de familia, Derecho civil, Derecho laboral, Sucesiones, Audiencias, Divorcios, Tenencia, Pensión Alimenticia, Desalojo, Accidentes de transito.
 
-# ---------------------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------
 
 ### ayuda.html :bulb:
 
