@@ -46,6 +46,15 @@ nav{
     }
 }
 
+img.images__circulo{
+    margin: 50px 0 25px 0;
+    border-radius: 50%;
+    object-position: 50% 50%;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
 .container__section__padding-top{
     padding-top: 20px;
 }
@@ -60,11 +69,16 @@ section div p{
     text-align: justify;
 }
 
+.margen__titulos{
+    margin-top: 40px;
+}
+
 /* footer */
 
 footer{
     background: linear-gradient(180deg, rgb(179, 42, 21) 0%, rgb(0, 0, 0) 100%);
     padding: 20px 0px;
+    margin-top: 50px;
 
     a, a:hover{
         text-decoration: none;
@@ -105,11 +119,11 @@ form{
 
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 767px) {
     *{
         font-size: 0.98em;
     }
-    #carouselWeb {
+    #carouselWeb, .ocultar__div__servicios {
       display: none;
     }
     header{
@@ -122,4 +136,12 @@ form{
             padding: 10px 0;
         }
     }
+  }
+
+  @media only screen and (max-width: 991px) {
+
+    .ocultar__div__servicios {
+      display: none;
+    }
+
   }
